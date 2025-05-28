@@ -1,53 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-         <generation-date>2025-05-22T09:14:13+03:00</generation-date>   
-    <offer internal-id="522761946912">
-    <type>аренда</type>
-    <category>commercial</category>
-    <commercial-type>office</commercial-type>
-    <commercial-building-type>business center</commercial-building-type>
-    <creation-date>2013-11-22T12:25:20+04:00</creation-date>
-    <url>https://ametrin.club/tproduct/522761946912-apartamenti-1</url>
-    <location>
-      <country>Россия</country>
-      <district>Челябинск</district>
-      <locality-name>г. Челябинск</locality-name>
-      <sub-locality-name>Центральный</sub-locality-name>
-      <address>Елькина 21</address>
-      <apartment>1</apartment>
-      </location>
-    <price>
-        <value>270000</value>
-        <currency>RUB</currency>
-        <unit>кв.м</unit>
-    </price>
-    <commission>0</commission>
-    <security-payment>100</security-payment>
-    <utilities-included>true</utilities-included>
-    <electricity-included>true</electricity-included>
-    <deal-status>direct rent</deal-status>
-    <area>
-      <value>24.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <image>https://static.tildacdn.com/stor3164-6132-4666-a436-653635636631/44662778.jpg</image>
-    <renovation>дизайнерский</renovation>
-    <quality>отличное</quality>
-    <description>Апартаменты с дизайнерским ремонтом под управлением профессионального отельера</description>
-    <rooms>1</rooms>
-    <internet>true</internet>
-    <air-conditioner>true</air-conditioner>
-    <ventilation>true</ventilation>
-    <fire-alarm>true</fire-alarm>
-    <heating-supply>true</heating-supply>
-    <electricity-supply>true</electricity-supply>
-    <floor>2</floor>
-    <floors-total>5</floors-total>
-    <building-name>Аметрин</building-name>
-    <office-class>A</office-class>
-    <built-year>2023</built-year>
-    <access-control-system>true</access-control-system>
-    <twenty-four-seven>true</twenty-four-seven>
-    <lift>true</lift>
-    </offer>
-    </realty-feed>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+	<generation-date>2020-01-27T17:59:44+03:00</generation-date>
+	<offer internal-id="522761946912">
+		<type>продажа</type>
+		<property-type>жилая</property-type>
+		<category>квартира</category>
+		<creation-date>2025-04-27T15:38:43+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Челябинская область</region><district></district><locality-name>Челябинск</locality-name><address>Елькина, 21</address>
+		</location>
+		<price>
+			<value>6669000</value>
+			<currency>RUR</currency> 
+		</price>
+		<area>
+			<value>24.7</value>
+			<unit>кв.м</unit> 
+		</area>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<floor>2</floor>
+		<description><![CDATA[Аметрин предлагает купить однокомнатную квартиру, расположенную по адресу...]]></description>
+				<image>https://static.tildacdn.com/stor3164-6132-4666-a436-653635636631/44662778.jpg</image>
+				<image>https://static.tildacdn.com/stor6439-3764-4534-a461-646435366435/16945015.jpg</image>
+				<image>https://static.tildacdn.com/stor6264-6435-4433-b733-653537343633/51412086.jpg</image>
+				<image>https://static.tildacdn.com/stor3431-3738-4531-b730-383762666264/22381661.jpg</image>
+				<image>https://static.tildacdn.com/stor3761-6664-4163-a534-643464626362/59584752.jpg</image>
+				<image>https://static.tildacdn.com/stor3137-3137-4261-a537-383932663735/33824400.jpg</image>
+				<image>https://static.tildacdn.com/stor3338-6630-4739-a566-626337393638/55190162.jpg</image>
+				<image>https://static.tildacdn.com/stor3039-6662-4765-a163-616331643364/97697418.jpg</image>
+				<image>https://static.tildacdn.com/stor3530-6132-4532-b037-636461393036/89511374.jpg</image>
+		<sales-agent>
+			<name>Аметрин</name>
+			<phone>+79127902598</phone><category>Собственник</category>
+			<organization>Фирма</organization>
+			<url>https://ametrin.club/tproduct/522761946912-apartamenti-1</url>
+		</sales-agent>
+	</offer>
+</realty-feed>
