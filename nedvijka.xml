@@ -1,85 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-		<yml_catalog date="2025-05-29 12:10">
-		<shop>
-			<name>Аметрин</name>
-			<company>ООО Аметрин</company>
-			<url>https://ametrin.club</url>
-			<email>dmpv1990@yandex.ru</email>
-		</shop>
-			<currencies>
-				<currency id="RUR" rate="1"/>
-			</currencies>
-		<sets>
-		  <set id="s1">
-			<name>Купить апартаменты в Челябинске</name>
-			<url>https://ametrin.club</url>
-		  </set>
-		</sets>	
-		<offers>
-			<offer id="522761946912">
-				<name>Апартаменты №1</name>
-				<picture>https://static.tildacdn.com/stor3164-6132-4666-a436-653635636631/44662778.jpg</picture>
-				<picture>https://static.tildacdn.com/stor6439-3764-4534-a461-646435366435/16945015.jpg</picture>
-				<picture>https://static.tildacdn.com/stor6264-6435-4433-b733-653537343633/51412086.jpg</picture>
-				<picture>https://static.tildacdn.com/stor3431-3738-4531-b730-383762666264/22381661.jpg</picture>
-				<picture>https://static.tildacdn.com/stor3761-6664-4163-a534-643464626362/59584752.jpg</picture>
-				<picture>https://static.tildacdn.com/stor3137-3137-4261-a537-383932663735/33824400.jpg</picture>
-				<picture>https://static.tildacdn.com/stor3338-6630-4739-a566-626337393638/55190162.jpg</picture>
-				<picture>https://static.tildacdn.com/stor3039-6662-4765-a163-616331643364/97697418.jpg</picture>
-				<picture>https://static.tildacdn.com/stor3530-6132-4532-b037-636461393036/89511374.jpg</picture>
-				<url>https://ametrin.club/tproduct/522761946912-apartamenti-1</url>
-				<price>6669000.00</price>
-				<currencyId>RUR</currencyId>
-				<set-ids>s1</set-ids>
-				<description>Ипотека, свободная продажа.</description>
-				<param name="Конверсия">0</param>
-                <param name="Тип предложения">Продажа</param>
-				<param name="Конверсия">0</param>
-				<param name="Тип предложения">Продажа</param>
-				<param name="Площадь">24.7 м²</param>
-				<param name="Этаж">2</param>
-			</offer>
-					<offer id="607439467642">
-			<name>Апартаменты №2</name>
-			<picture>https://static.tildacdn.com/stor6264-6435-4433-b733-653537343633/51412086.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3437-3163-4366-b362-646133363532/38991579.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3164-6132-4666-a436-653635636631/44662778.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3431-3738-4531-b730-383762666264/22381661.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3761-6664-4163-a534-643464626362/59584752.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3137-3137-4261-a537-383932663735/33824400.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3338-6630-4739-a566-626337393638/55190162.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3039-6662-4765-a163-616331643364/97697418.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3530-6132-4532-b037-636461393036/89511374.jpg</picture>
-			<url>https://ametrin.club/tproduct/607439467642-apartamenti-2</url>
-			<price>6507000.00</price>
-			<currencyId>RUR</currencyId>
-			<set-ids>s1</set-ids>
-			<description>Ипотека, свободная продажа.</description>
-			<param name="Конверсия">0</param>
-            <param name="Тип предложения">Продажа</param>
-			<categoryId>712028771722</categoryId>
-			<param name="Площадь">24,1 м²</param>
-			<param name="Этаж">2</param>
-		</offer>
-		<offer id="581155629222">
-			<name>Апартаменты №3</name>
-			<picture>https://static.tildacdn.com/stor6461-3333-4334-b838-313931623966/91050070.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3166-3239-4732-b839-626362656564/86437310.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3830-6437-4061-a531-323436613439/93683663.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3737-6433-4436-a331-343833643261/50316680.jpg</picture>
-			<picture>https://static.tildacdn.com/stor6361-6438-4663-a134-383030663261/41273719.jpg</picture>
-			<picture>https://static.tildacdn.com/stor3038-3336-4063-b034-626533306339/32652479.jpg</picture>
-			<url>https://ametrin.club/tproduct/581155629222-apartamenti-3</url>
-			<price>7587000.00</price>
-			<currencyId>RUR</currencyId>
-			<set-ids>s1</set-ids>
-			<description>Ипотека, свободная продажа.</description>
-			<param name="Конверсия">0</param>
-            <param name="Тип предложения">Продажа</param>
-			<categoryId>712028771722</categoryId>
-			<param name="Площадь">28,1 м²</param>
-			<param name="Этаж">2</param>
-		</offer>
-			</offers>
-	</yml_catalog>
-			
+<yml_catalog date="2025-05-29T15:30">
+  <shop>
+	<name>Аметрин</name>
+	<company>ООО Аметрин</company>
+	<url>https://ametrin.club</url>
+	<email>dmpv1990@yandex.ru</email>
+	<currencies>
+	  <currency id="RUR" rate="1" />
+	</currencies>
+	<categories>
+	  <category id="1">Квартира</category>
+	</categories>
+	<sets>
+	  <set id="s1">
+		<name>Купить апартаменты в Челябинске</name>
+		<url>https://ametrin.club</url>
+	  </set>
+	</sets>	
+	<offers>
+	 <offer id="522761946912-apartamenti-1">
+		<name>Апартаменты №1</name>
+		<url>https://ametrin.club/tproduct/522761946912-apartamenti-1</url>
+		<price>6669000</price>
+		<currencyId>RUR</currencyId>
+		<categoryId>1</categoryId>
+		<set-ids>s1</set-ids>
+		<picture>https://static.tildacdn.com/stor3164-6132-4666-a436-653635636631/44662778.jpg</picture>
+		<description>Ипотека, свободная продажа.</description>
+		<param name="Конверсия">1</param>
+		<param name="Тип предложения">Продажа</param>
+		<param name="Площадь">24.7 м²</param>
+		<param name="Этаж">2</param>
+	</offer>
+	<offer id="607439467642-apartamenti-2">
+		<name>Апартаменты №2</name>
+		<url>https://ametrin.club/tproduct/607439467642-apartamenti-2</url>
+		<price>6507000</price>
+		<currencyId>RUR</currencyId>
+		<categoryId>1</categoryId>
+		<set-ids>s1</set-ids>
+		<picture>https://static.tildacdn.com/stor6264-6435-4433-b733-653537343633/51412086.jpg</picture>
+		<description>Ипотека, свободная продажа.</description>
+		<param name="Конверсия">1</param>
+		<param name="Тип предложения">Продажа</param>
+		<param name="Площадь">24,1 м²</param>
+		<param name="Этаж">2</param>
+	</offer>
+	<offer id="581155629222-apartamenti-3">
+		<name>Апартаменты №3</name>
+		<url>https://ametrin.club/tproduct/581155629222-apartamenti-3</url>
+		<price>7587000</price>
+		<currencyId>RUR</currencyId>
+		<categoryId>1</categoryId>
+		<set-ids>s1</set-ids>
+		<picture>https://static.tildacdn.com/stor6461-3333-4334-b838-313931623966/91050070.jpg</picture>
+		<description>Ипотека, свободная продажа.</description>
+		<param name="Конверсия">1</param>
+		<param name="Тип предложения">Продажа</param>
+		<param name="Площадь">28,1 м²</param>
+		<param name="Этаж">2</param>
+	</offer>
+	</offers>
+  </shop>
+</yml_catalog>
