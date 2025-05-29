@@ -1,13 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-		<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-		<generation-date>2025-05-29T11:36:00+04:00</generation-date>  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+		<yml_catalog date="2025-05-29 12:10">
+		<shop>
+			<name>Аметрин</name>
+			<company>ООО Аметрин</company>
+			<url>https://ametrin.club</url>
+			<email>dmpv1990@yandex.ru</email>
+		</shop>
+			<currencies>
+				<currency id="RUR" rate="1"/>
+			</currencies>
 		<sets>
 		  <set id="s1">
 			<name>Купить апартаменты в Челябинске</name>
 			<url>https://ametrin.club</url>
 		  </set>
 		</sets>	
-			<offers>
+		<offers>
 			<offer id="522761946912">
 				<name>Апартаменты №1</name>
 				<picture>https://static.tildacdn.com/stor3164-6132-4666-a436-653635636631/44662778.jpg</picture>
@@ -73,5 +81,5 @@
 			<param name="Этаж">2</param>
 		</offer>
 			</offers>
-	</realty-feed>
+	</yml_catalog>
 			
