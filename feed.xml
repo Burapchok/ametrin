@@ -29,7 +29,7 @@
 		<description>Ипотека, свободная продажа.</description>
 		<param name="Конверсия">1</param>
 		<param name="Тип предложения">Продажа</param>
-		<param name="Площадь">24.7 м²</param>
+		<param name="Площадь">24.7</param>
 		<param name="Этаж">2</param>
 	</offer>
 	<offer id="607439467642-apartamenti-2">
@@ -43,7 +43,7 @@
 		<description>Ипотека, свободная продажа.</description>
 		<param name="Конверсия">1</param>
 		<param name="Тип предложения">Продажа</param>
-		<param name="Площадь">24,1 м²</param>
+		<param name="Площадь">24,1</param>
 		<param name="Этаж">2</param>
 	</offer>
 	<offer id="581155629222-apartamenti-3">
@@ -57,7 +57,7 @@
 		<description>Ипотека, свободная продажа.</description>
 		<param name="Конверсия">1</param>
 		<param name="Тип предложения">Продажа</param>
-		<param name="Площадь">28,1 м²</param>
+		<param name="Площадь">28,1</param>
 		<param name="Этаж">2</param>
 	</offer>
 	</offers>
